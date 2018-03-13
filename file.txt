@@ -3,6 +3,7 @@ code
 //no, this comment
 code
 code
+//comment
 code
 code
 code

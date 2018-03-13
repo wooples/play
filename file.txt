@@ -2,6 +2,7 @@ code
 code
 code
 code
+//comment
 code
 code
 code

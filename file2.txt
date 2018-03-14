@@ -3,5 +3,6 @@
 2code
 //comment friend
 3code
+//i hate you
 4code
 5code

@@ -1,5 +1,6 @@
 1code
 2code
+//comment friend
 3code
 4code
 5code
